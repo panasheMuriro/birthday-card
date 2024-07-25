@@ -3,7 +3,6 @@ import "./App.css";
 import ConfettiExplosion from "react-confetti-explosion";
 import { useEffect } from "react";
 import Card from "./Card";
-import { Route, useParams } from "react-router-dom";
 
 
 function App() {
